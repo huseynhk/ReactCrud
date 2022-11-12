@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1 ,
+        "name": "Huseyn",
+        "email": "h@gmail77.com",
+        "phone": "055-350-92-92"
+    },
+    {
+        "id": 2 ,
+        "name": "Elvin",
+        "email": "e@gmail66.com",
+        "phone": "055-350-96-55"
+    },
+    {
+        "id": 3 ,
+        "name": "Ramiz",
+        "email": "r@gmail90.com",
+        "phone": "050-350-09-90"
+    }
+]
